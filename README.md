@@ -1,2 +1,2 @@
 # Databricks
-Complete Data Engineering Project Using Databricks from raw data ingestion to a Business analytics dashboard
+Complete Data Engineering Project Using Databricks from raw data ingestion to a Business analytics dashboard following a Medallion Architecture.
